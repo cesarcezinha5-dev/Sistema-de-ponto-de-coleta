@@ -1,0 +1,137 @@
+[
+    {
+        "nome": "Ponto do Joaquim",
+        "cep": "07010020",
+        "logradouro": "Rua Oswaldo Cruz",
+        "bairro": "Centro",
+        "cidade": "Guarulhos",
+        "estado": "SP",
+        "numero": "182"
+    },
+    {
+        "nome": "Ponto Americanas",
+        "cep": "07022020",
+        "logradouro": "Rua Guarulhos",
+        "bairro": "Gopoúva",
+        "cidade": "Guarulhos",
+        "estado": "SP",
+        "numero": "200"
+    },
+    {
+        "nome": "Ponto Loja de Variedades",
+        "cep": "07061010",
+        "logradouro": "Rua Sérgio Rabello",
+        "bairro": "Jardim São Judas Tadeu",
+        "cidade": "Guarulhos",
+        "estado": "SP",
+        "numero": "25"
+    },
+    {
+        "nome": "Ponto Assistencia Phones",
+        "cep": "07061010",
+        "logradouro": "Rua Sérgio Rabello",
+        "bairro": "Jardim São Judas Tadeu",
+        "cidade": "Guarulhos",
+        "estado": "SP",
+        "numero": "20"
+    },
+    {
+        "nome": "Ponto Loja de 1 real",
+        "cep": "07110100",
+        "logradouro": "Rua Carlos Augusto Bresser",
+        "bairro": "Centro",
+        "cidade": "Guarulhos",
+        "estado": "SP",
+        "numero": "100"
+    },
+    {
+        "nome": "Ponto Pao de mel",
+        "cep": "07090000",
+        "logradouro": "Avenida Tiradentes",
+        "bairro": "Jardim Guarulhos",
+        "cidade": "Guarulhos",
+        "estado": "SP",
+        "numero": "89"
+    },
+    {
+        "nome": "Ponto É do Brasil Variedades",
+        "cep": "01001000",
+        "logradouro": "Praça da Sé",
+        "bairro": "Sé",
+        "cidade": "São Paulo",
+        "estado": "SP",
+        "numero": "66"
+    },
+    {
+        "nome": "Ponto Loja do Pará",
+        "cep": "01503000",
+        "logradouro": "Avenida da Liberdade",
+        "bairro": "Liberdade",
+        "cidade": "São Paulo",
+        "estado": "SP",
+        "numero": "500"
+    },
+    {
+        "nome": "Ponto Americanas SP",
+        "cep": "03030010",
+        "logradouro": "Rua Xandê",
+        "bairro": "Canindé",
+        "cidade": "São Paulo",
+        "estado": "SP",
+        "numero": "400"
+    },
+    {
+        "nome": "Ponto Mercadão",
+        "cep": "04003002",
+        "logradouro": "Rua Coronel Oscar Porto",
+        "bairro": "Paraíso",
+        "cidade": "São Paulo",
+        "estado": "SP",
+        "numero": "21"
+    },
+    {
+        "nome": "Ponto Loja do Seu Zé",
+        "cep": "05507000",
+        "logradouro": "Avenida Afrânio Peixoto",
+        "bairro": "Butantã",
+        "cidade": "São Paulo",
+        "estado": "SP",
+        "numero": "55"
+    },
+    {
+        "nome": "Ponto Dú Cria",
+        "cep": "20010010",
+        "logradouro": "Praça Quinze de Novembro",
+        "bairro": "Centro",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "numero": "22"
+    },
+    {
+        "nome": "Ponto BH Variedades",
+        "cep": "30130010",
+        "logradouro": "Praça Sete de Setembro",
+        "bairro": "Centro",
+        "cidade": "Belo Horizonte",
+        "estado": "MG",
+        "numero": "300"
+    },
+    {
+        "nome": "Ponto Loja Seutoba",
+        "cep": "40010010",
+        "logradouro": "Rua da Grécia",
+        "bairro": "Comércio",
+        "cidade": "Salvador",
+        "estado": "BA",
+        "numero": "99"
+    },
+    {
+        "nome": "Ponto Loja da Adriana ",
+        "cep": "07252015",
+        "logradouro": "Avenida do Contorno",
+        "bairro": "Jardim Normandia",
+        "cidade": "Guarulhos",
+        "estado": "SP",
+        "numero": "230"
+    }
+]
